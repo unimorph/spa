@@ -18,8 +18,8 @@ Source:
 
 ## Language Specifics
 
-- LGSPEC1 - imperfect -ra
-- LGSPEC2 - imperfect -se
+- LGSPEC1 - imperfect -ra for verbs
+- LGSPEC2 - imperfect -se for verbs
 
 ## License
 
