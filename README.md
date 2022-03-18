@@ -18,6 +18,9 @@ Source:
 
 ## Language Specifics
 
+- LGSPEC1 - imperfect -ra
+- LGSPEC2 - imperfect -se
+
 ## License
 
 License: https://creativecommons.org/licenses/by-sa/3.0/
